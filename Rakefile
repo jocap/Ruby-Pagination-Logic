@@ -13,10 +13,10 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "ruby_pagination_logic"
-  gem.homepage = "http://github.com/jocap/ruby_pagination_logic"
-  gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.homepage = "http://jocap.github.com/Ruby-Pagination-Logic"
+  gem.license = "CC-BY-SA"
+  gem.summary = %Q{Ruby Pagination Logic is a tiny library providing you the pagination logic for any Ruby application.}
+  gem.description = %Q{Ruby Pagination Logic provides you the pagination logic, while being lightweight and easy to use.}
   gem.email = "jocapriconne@gmail.com"
   gem.authors = ["John Ankarström"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
